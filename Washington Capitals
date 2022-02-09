@@ -1,5 +1,0 @@
-- name: Setup MySQL
-  uses: mirromutth/mysql-action@v1.1
-  
-  Create database Washington Capitals 
-  
